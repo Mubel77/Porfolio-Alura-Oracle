@@ -1,0 +1,14 @@
+.cajaSecundaria{
+    font-size: 1.5rem;
+    font-family: var(--fuente-montserrat);
+}
+.listadoDeTrabajo{
+    margin-top: 15%;
+}
+.ItemsDelListado{
+margin: 10%;
+}
+.certificadoA{
+    text-decoration: none;
+    color: black;
+}
